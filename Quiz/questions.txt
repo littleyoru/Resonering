@@ -1,0 +1,17 @@
+﻿Er en hund en kat?, No
+Er en kat en hund?, No
+Er gruppe 1 de bedste?, Yes
+Er github lort?, Yes
+Er Ian gammel?, Yes 
+Er himlen gul, No
+Er himlen grøn, No 
+Er himlen blå, Yes
+Er c# objektivt, Yes 
+Er 1km det samme som 100m, No
+Er 1km det samme som 1000m, Yes
+Er apple godt?, No
+Er en ipad et skærebræt,Yes
+Er sne hvidt?, Yes
+Er sne grønt?, No
+Er dette emne nemt?, Yes
+Er det godt at blive gift på MCD?, Yes
